@@ -7,7 +7,7 @@ Developed for Chrome but kind of works in other browsers supporting the console.
 It also includes a function named consoleLog() you can use to output debug text to the console.
 
 Examples
-
+-----------
 	consoleLog('Debug text');
 	consoleLog('Lots of text',$text); // this displays the text in a collapsed group for your convenience
 	consoleLog('My array',$array); // you can also output arrays or objects
